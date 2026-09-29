@@ -1,1 +1,16 @@
-# Fidan-63-63
+![MasterHead](https://www.google.com/search?sca_esv=6787776555f7be71&rlz=1C1MYPO_trTR1192TR1200&sxsrf=APpeQntXwylU6CdNk7m_f9gbTteBBE14Cg:1790709571173&udm=2&fbs=ABfTbFXe7nyY-kNWKwQ-h2UJXlqp8lNDCM9bT64ZSPFlq12ABgHn6ltrUBOgM4ibkkLR8Rwu4n-ijkBD6ySLsufXeJOCDw3OckN-xORckrNXUJf702KeoaneeMeUL564mtLQFehMdFoWWT_VziLEm16UME_CEFA-4jMBkjcvtJEpiUOixZPILNtRglxLhIXQkei6lARFJj4iMeG2it-0kJvJsjou3vn4hT6ZFQkJp3LvWvoXABuQjumcZ1XhgEpRN-5VUN7_ID-H&q=G%C4%B0THUB+RESM%C4%B0&sa=X&ved=2ahUKEwiUmIr_wJSXAxV7lf0HHblWG8QQtKgLegQIGBAB&biw=1336&bih=589&dpr=1.44#sv=CAMSURoyKhBlLUdKaktDRjExSVYydnVNMg5HSmpLQ0YxMUlWMnZ1TToObHV6ZFc1YW1PRHprTE0gBCoXCgFzEhBlLUdKaktDRjExSVYydnVNGAEwARgHIN35q5QBSggQAhgBIAIoAQ
+<h1 align="center">Hi 👋, I'm Fidan Turan</h1>
+<h3 align="center">Astudent engineer from Turkey</h3>
+
+- 📫 How to reach me **fidanturan268@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/fi̇dan turan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fi̇dan turan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fidan turan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fidan turan" height="30" width="40" /></a>
+<a href="https://kaggle.com/fi̇dan turan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fi̇dan turan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fi̇dan turan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fi̇dan turan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
