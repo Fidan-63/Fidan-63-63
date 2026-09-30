@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/search?q=arka+plan+resmi&oq=arka+plan+resmi&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBi0BzIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQIRiPAjIHCAwQIRiPAtIBCTEwMjkwajBqNKgCALACAQ&client=tablet-android-lenovo-tx&sourceid=chrome-mobile&source=chrome.ob&ie=UTF-8#sv=CAMScRoyKhBlLU0tcHZiTGpPQlV2Z0FNMg5NLXB2YkxqT0JVdmdBTToOUlNxVERYNFF1RjBSYU0gBCoxChtfNTZtOGFwNnJMTUNKOXU4UHZJeldvQU1fMzUSEGUtTS1wdmJMak9CVXZnQU0YADABSgQIARACGAcg7M-Phg9KCBACGAEgAigB)
+
 
 <h1 align="center">Hi 👋, I'm Fidan Turan</h1>
 <h3 align="center">Astudent engineer from Turkey</h3>
