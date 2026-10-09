@@ -1,22 +1,22 @@
-﻿string Sistem_kullanıcısı = "admin";
-string Sistem_şifresi = "6363.";
+﻿using System.ComponentModel.Design;
 
+Console.WriteLine("Faturanızı Giriniz:");
+double tutar = Convert.ToDouble(Console.ReadLine());
 
-Console.WriteLine("Kullanıcı adınızı giriniz: ");
-string girilen_kullanıcı_adı = Console.ReadLine();
-
-Console.WriteLine("Kullancı şifrenizi girniz: ");
-string girilen_şifre = Console.ReadLine();
-
-if(girilen_kullanıcı_adı== Sistem_kullanıcısı && girilen_şifre == Sistem_şifresi)
+Console.WriteLine("Öğrenci Misiniz:(true/false)");
+Boolean Öğrenci_mi = Convert.ToBoolean(Console.ReadLine());
+ 
+if(tutar >= 650 && Öğrenci_mi == true)
 {
-    Console.WriteLine("Giriş Başarılı, Hoş geldiniz !");
+    double YeniTutar = tutar * 0.6;
+    Console.WriteLine("Yeni tutarınız: " + YeniTutar  );
 }
-else if ( girilen_kullanıcı_adı == Sistem_şifresi || girilen_şifre== Sistem_şifresi)
-{
-    Console.WriteLine("Kullanıcı adı veya Şifre Hatalı, Tekrar Deneyiniz !");
+ else if (tutar >= 650 || Öğrenci_mi == true){
+    double YeniTutar = tutar * 0.8;
+    Console.WriteLine("Yeni tutarınız: " + YeniTutar );
 }
 else
 {
-    Console.WriteLine("Giriş Başarısız !");
+    Console.WriteLine("Tutarınız: " + tutar );
+
 }
